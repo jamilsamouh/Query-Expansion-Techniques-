@@ -1,6 +1,6 @@
 # Query-Expansion-Techniques-
 ## Description:
-These Query Expansion (QE) techniques are implemented in a paper that will be presented in CIKM 2020
+These Query Expansion (QE) techniques are implemented in a paper that will be presented in CIKM 2020 and it was written in Python programming language
 ## Cowrokers:
 This paper belongs to LS3 office at Ryerson University and it was coauthorized by Ebrahim Bagheri/Samad Paydar/Fattane Zarrinkalam/Hossein Fani/Mahtab Tamannaee
 ## Important Note:
